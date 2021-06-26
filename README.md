@@ -1,2 +1,8 @@
-# Neutralize_The_Toxin
-An effort to implement ML, and Deep Learning Algorithms to classify toxic comments. Also to perform Data Augmentationa and see its efficacy
+## Neutralize_The_Toxin- An implementation and comparison of various ML techniques to classify toxic comments
+An effort to implement Machine Learning, and Deep Learning Algorithms to classify toxic comments. We have also performed Data Augmentationa to see its efficacy.
+
+## Project Contributers:
+Drishti Gupta
+Amandeep Kaur
+Aayushi Bansal
+Srinidhi Ayyagari
