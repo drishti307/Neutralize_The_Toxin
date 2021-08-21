@@ -6,3 +6,7 @@ Drishti Gupta
 Amandeep Kaur
 Aayushi Bansal
 Srinidhi Ayyagari
+
+## Description
+Neutralize_the_Toxin.ipynb contains the code base
+Neutralize_the_Toxin.pdf is a report containing our observations
