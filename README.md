@@ -3,7 +3,7 @@ This project addresses the need to identify and classify toxic online comments. 
 
 ## Description
 Neutralize_the_Toxin.ipynb contains the code base <br>
-Neutralize_the_Toxin.pdf is a report containing our observations
+Neutralize_the_Toxin.pdf is a **report** containing our observations
 
 ## Project Contributers
 Drishti Gupta<br>
